@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <p align="center">
   <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
   <img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
@@ -20,3 +19,16 @@
   <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=flat">
   <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=github&style=flat">
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TakashiAoki5816&theme=onedark">
+</p>
+
+<div dir=auto>
+  <a href="https://github.comgithub-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=TakashiAoki5816&show_icons=true&theme=vue-dark" />
+  </a>
+  <a href="https://github.com/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakashiAoki5816&theme=vue-dark" />
+  </a>
+</div>
