@@ -7,7 +7,9 @@
   <img src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jquery&style=flat">
   <img src="https://img.shields.io/badge/Vue.js-gray?style=flat&logo=vue.js" alt="Vue.js">
   <img src="https://img.shields.io/badge/PHP-ccc.svg?logo=php&style=flat">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel" alt="Laravel">
+  <img src="https://img.shields.io/badge/Laravel-EEE?style=flat&logo=laravel" alt="Laravel">
+  <img src="https://img.shields.io/badge/Ruby-DF2D20?style=flat&logo=ruby" alt="Ruby">
+  <img src="https://img.shields.io/badge/Ruby on Rails-D22128?style=flat&logo=rubyonrails" alt="Rails">
   <img src="https://img.shields.io/badge/-Mac-0078D6.svg?logo=macos&style=flat">
   <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat">
   <img src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat">
