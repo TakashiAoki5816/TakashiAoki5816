@@ -1,6 +1,6 @@
 ## Hi there👋, I'm Takashi Aoki
 <div>
-  <img align='right' src='https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif' width=400 height=300>
+  <img align='right' src='https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif' width=400 height=280>
 </div>
 
 ### Recent Activities
