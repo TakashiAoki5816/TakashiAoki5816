@@ -1,5 +1,21 @@
-### Hi there👋, I'm Takashi Aoki
+## Hi there👋, I'm Takashi Aoki
+<div>
+  <img align='right' src='https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif' width=400 height=300>
+</div>
+
+### Recent Activities
+- Laravel
+- Vue, TS
+
+### Recent Interested
+- Architecture（etc. DDD, TDD）
+- Go, Python
+
+### Tech Blog
+- [Zenn](https://zenn.dev/takashi5816)
+
 <h1 align="center">Skills</h1>
+
 
 [![My Skills](https://skillicons.dev/icons?i=js,vue,ts,jquery,nodejs,php,laravel,symfony,java,mysql,postgres,git,linux,vite,webpack,nginx,docker,aws,vscode,postman)](https://skillicons.dev)
 
