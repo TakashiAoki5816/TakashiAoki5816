@@ -17,7 +17,7 @@
 <h1 align="center">Skills</h1>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,vue,ts,jquery,php,laravel,symfony,java,mysql,postgres,git,linux,vite,webpack,nodejs,nginx,docker,aws,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,vue,ts,jquery,php,laravel,symfony,java,mysql,postgres,git,linux,vite,webpack,nodejs,nginx,docker,aws,vscode)](https://skillicons.dev)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TakashiAoki5816&theme=onedark">
