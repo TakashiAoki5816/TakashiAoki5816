@@ -8,7 +8,7 @@
 - Vue, TS
 
 ### Recent Interested
-- Architecture（etc. DDD, TDD）
+- Readable
 - Go, Python
 
 ### Tech Blog
