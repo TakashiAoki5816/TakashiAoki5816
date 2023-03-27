@@ -8,7 +8,7 @@
 - Vue, TS
 
 ### Recent Interested
-- Readable
+- Code readability
 - Go, Python
 
 ### Tech Blog
