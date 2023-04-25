@@ -5,7 +5,7 @@
 
 ### Recent Activities
 - Laravel
-- Vue, TS
+- Vue3, TypeScript
 
 ### Recent Interested
 - Code readability
