@@ -4,7 +4,7 @@
 </div>
 
 ### Recent Activities
-- Laravel
+- Laravel9
 - Vue3, TypeScript
 
 ### Recent Interested
