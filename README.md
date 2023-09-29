@@ -4,8 +4,8 @@
 </div>
 
 ### Recent Activities
-- Laravel9
-- Vue3, TypeScript
+- Laravel
+- Vue, TypeScript
 
 ### Recent Interested
 - Code readability
