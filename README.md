@@ -4,12 +4,12 @@
 </div>
 
 ### Recent Activities
+- Go
 - Laravel
-- Vue, TypeScript
 
 ### Recent Interested
 - Code readability
-- Go, Python
+- Network
 
 ### Tech Blog
 - [Zenn](https://zenn.dev/takashi5816)
