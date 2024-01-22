@@ -14,6 +14,12 @@
 ### Tech Blog
 - [Zenn](https://zenn.dev/takashi5816)
 
+<h1 align="center">Badge</h1>
+
+[![Articles](https://badgen.org/img/zenn/takashi5816/articles?style=plastic&label=Zenn+articles)](https://zenn.dev/takashi5816)
+[![Likes](https://badgen.org/img/zenn/takashi5816/likes?style=plastic&label=Zenn+likes)](https://zenn.dev/takashi5816)
+[![Followers](https://badgen.org/img/zenn/takashi5816/followers?style=plastic&label=Zenn+followers)](https://zenn.dev/takashi5816)
+
 <h1 align="center">Skills</h1>
 
 
