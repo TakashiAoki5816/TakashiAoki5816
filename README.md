@@ -8,7 +8,7 @@
 - Go
 
 ### Recent Interested
-- Code readability
+- Architecture
 - Docker
 
 ### Tech Blog
