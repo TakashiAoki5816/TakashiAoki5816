@@ -4,8 +4,8 @@
 </div>
 
 ### Recent Activities
+- Nest, Vue3
 - Go
-- Laravel
 
 ### Recent Interested
 - Code readability
