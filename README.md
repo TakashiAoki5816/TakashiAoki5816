@@ -5,6 +5,7 @@
 
 ### Recent Activities
 - Nest, Vue3
+- CS
 - Go
 
 ### Recent Interested
