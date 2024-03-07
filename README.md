@@ -4,11 +4,11 @@
 </div>
 
 ### Recent Activities
+- Agile
 - Nest, Vue3
-- CS
-- Go
 
 ### Recent Interested
+- Go
 - Architecture
 - Docker
 
